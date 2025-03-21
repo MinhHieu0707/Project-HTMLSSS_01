@@ -64,7 +64,7 @@ a {
     z-index: 1;
 }
 
-.header {
+.hero-wrap {
     display: flex;
     flex-direction: column-reverse;
     background-color: #e6f0ff;
