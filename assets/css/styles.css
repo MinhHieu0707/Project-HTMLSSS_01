@@ -623,13 +623,20 @@ a {
     display: flex;
 }
 
+
 .footer .social-link {
     display: flex;
+    margin-left: 16px;
     align-items: center;
     justify-content: center;
     width: 28px;
     height: 28px;
     border-radius: 3px;
+    background: #f9f9f9;
+}
+
+.footer .social-link:first-child {
+    margin-left: 0;
 }
 
 .footer .social-link:hover {
