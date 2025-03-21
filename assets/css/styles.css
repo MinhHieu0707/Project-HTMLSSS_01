@@ -59,6 +59,7 @@ a {
     z-index: 1;
 }
 
+
 .header {
     display: flex;
     flex-direction: column-reverse;
@@ -633,6 +634,7 @@ a {
 .footer .social {
     display: flex;
 }
+
 
 .footer .social-link {
     display: flex;
